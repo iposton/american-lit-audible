@@ -1,45 +1,53 @@
-#Pieces of American History through audible books
+# Pieces of American History through audible books
 
-##This is a collection of audio books, majority are non-fiction
+## This is a collection of audio books, majority are non-fiction
 
 I wanted to take a look back on the beginning of what inspired the America I live in today. Instead of reading a text of American history written by somebody alive today I wanted to hear voices that wrote about the past while living in the past. It's like getting in a time machine and going as far back as 400 years ago when Pilgrims migrated to New England. Listening to dialog and conversations that happened over 100 years ago is pretty fascinating. Each author often references their influences, their favorite books and favorite authors and it inspired me to do some more research to help me find more things to listen to.
 
 <i>Eveything with a * is Included with an audible membership. Included means a credit is not required to listen to the book.</i>
 
-###Table of Contents
-<ol>
-<li>[(Published 1651) Of Plymouth Plantation (William Bradford)](#plymouth)</li>
-<li>[(Published 1791) The Autobiography of Benjamin Franklin (Benjamin Franklin)](#benfranklin)</li>
-<li>(Published 1992) Daniel Boone: The Life and Legend of an American Pioneer – (John Mack Faragher)</li>
-<li>(Published 1853) 12 Years a Slave (Solomon Northup)</li>
-<li>(Published 1852) Uncle Tom’s Cabin (Harriet Beecher Stowe)</li>
-<li>(Published 1843) Journal of A Trapper: 9 years in The Rocky Mountains (Osborne Russell)</li>
-<li>(Published 1885) Personal Memoirs of Ulysses S. Grant (Ulysses S. Grant)</li>
-<li>(Published 1872) Roughing It (Mark Twain)</li>
-<li>(1879) Nine Years Among the Indians (Herman Lehmann)</li>
-<li>(Published 1901) Up From Slavery - The Autobiography of Booker T. Washington (Booker T. Washington)</li>
-<li>(Published 1905) The House of Mirth (Edith Wharton)</li>
-<li>(Published 1907) The Education of Henry Adams (Henry Brooks Adams)</li>
-<li>(Published 1919) My Inventions: The Autobiography of Nikola Tesla (Nikola Tesla)</li>
-<li>(Published 1922) My Life and Work (Henry Ford)</li>
-<li>(Published 1929) A Room of One’s Own (Virginia Woolf)</li>
-<li>(Published 1929) A Farewell to Arms (Ernest Hemingway)</li>
-<li>(Published 1938) Farewell to sport (Paul Gallico)</li>
-<li>(Published 1945) Black Boy (Richard Wright)</li>
-</ol>
+### Table of Contents
+---
 
+1. [(Published 1651) Of Plymouth Plantation (William Bradford)](#plymouth)
+2. [(Published 1791) The Autobiography of Benjamin Franklin (Benjamin Franklin)](#benfranklin)
+3. [(Published 1992) Daniel Boone: The Life and Legend of an American Pioneer – (John Mack Faragher)](#boone)
+4. [(Published 1821) Autobiography of Thomas Jefferson (Thomas Jefferson)](#jefferson)
+5. [(Published 1853) 12 Years a Slave (Solomon Northup)](#twelve)
+6. (Published 1852) Uncle Tom’s Cabin (Harriet Beecher Stowe)
+7. (Published 1843) Journal of A Trapper: 9 years in The Rocky Mountains (Osborne Russell)
+8. (Published 1885) Personal Memoirs of Ulysses S. Grant (Ulysses S. Grant)
+9. (Published 1872) Roughing It (Mark Twain)
+10. (1879) Nine Years Among the Indians (Herman Lehmann)
+11. (Published 1901) Up From Slavery - The Autobiography of Booker T. Washington (Booker T. Washington)
+12. (Published 1903) The Souls of Black Folk (W. E. B. Du Bois)
+13. (Published 1905) The House of Mirth (Edith Wharton)
+14. (Published 1907) The Education of Henry Adams (Henry Brooks Adams)
+15. (Published 1919) My Inventions: The Autobiography of Nikola Tesla (Nikola Tesla)
+16. (Published 1922) My Life and Work (Henry Ford)
+17. (Published 1929) A Room of One’s Own (Virginia Woolf)
+18. (Published 1929) A Farewell to Arms (Ernest Hemingway)
+19. (Published 1938) Farewell to sport (Paul Gallico)
+20. (Published 1945) Black Boy (Richard Wright)
+
+---
 <a name="plymouth"></a>
 
-1.	* (Published 1651) [Of Plymouth Plantation](https://www.audible.com/pd/Of-Plymouth-Plantation-Audiobook/B07BYSWNBD) [(William Bradford)](https://en.wikipedia.org/wiki/William_Bradford_(governor)) – The amazing way that this book was recovered after it went missing around the time of the revolution it was found in England and finally published. It covers the era of 1630-1651. Most of this book are letters written to British investors that expected the pilgrims to get settled and ship goods back to England for the first 7 years before being allowed to work for themselves. It describes relationships with Native Americans and the early French settlers. There were some conflict with how some of these early settlers behaved. Side notes such as sailors wouldn’t share their barrels of beer with the pilgrims. The difficulties of planting crops and staying alive the first year are inspiring to hear. The story of why they left England and took on the challenge of braving the dangerous trip to America where the stories of being instantly killed by natives as soon as they arrived despite all this they wanted to take the chance to find a better chance for their children to live a better life. 
+1. (Published 1651) [* Of Plymouth Plantation](https://www.audible.com/pd/Of-Plymouth-Plantation-Audiobook/B07BYSWNBD) [(William Bradford)](https://en.wikipedia.org/wiki/William_Bradford_(governor)) – The amazing way that this book was recovered after it went missing around the time of the revolution it was found in England and finally published. It covers the era of 1630-1651. Most of this book are letters written to British investors that expected the pilgrims to get settled and ship goods back to England for the first 7 years before being allowed to work for themselves. It describes relationships with Native Americans and the early French settlers. There were some conflict with how some of these early settlers behaved. Side notes such as sailors wouldn’t share their barrels of beer with the pilgrims. The difficulties of planting crops and staying alive the first year are inspiring to hear. The story of why they left England and took on the challenge of braving the dangerous trip to America where the stories of being instantly killed by natives as soon as they arrived despite all this they wanted to take the chance to find a better chance for their children to live a better life. 
 
 <a name="benfranklin"></a>
 
-2.	* (Published 1791) [The Autobiography of Benjamin Franklin](https://www.audible.com/pd/The-Autobiography-of-Benjamin-Franklin-Audiobook/B002V1OIOU?qid=1616368914&sr=1-2&ref=a_search_c3_lProduct_1_2&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=VGZXNFZMWPR5RZZTZT59) [(Benjamin Franklin)](https://en.wikipedia.org/wiki/Benjamin_Franklin) – This book is surprisingly easy to follow and written in a modern tone for the time in which it was written. It covers the era of 1706-1789 He has stories about writing for his brothers printing press company under a fake name. Threw his drunkard friend off of a boat for not helping them row the boat. Tells about his travels from his home down to New York City looking for work. He goes into to many details of the characters he meets along the way particularly his first boss he worked for as a printer assistant in Philadelphia. He describes his involvement with the British in the French and Indian war. He talks about his time living over seas. The first half of this book takes a pause and then there is two letters from curious minds that urge ben to continue his life story and ben does. He has a chapter dedicated to the beginning of American currency. Great read. 
+2. (Published 1791) [* The Autobiography of Benjamin Franklin](https://www.audible.com/pd/The-Autobiography-of-Benjamin-Franklin-Audiobook/B002V1OIOU?qid=1616368914&sr=1-2&ref=a_search_c3_lProduct_1_2&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=VGZXNFZMWPR5RZZTZT59) [(Benjamin Franklin)](https://en.wikipedia.org/wiki/Benjamin_Franklin) – This book is surprisingly easy to follow and written in a modern tone for the time in which it was written. It covers the era of 1706-1789 He has stories about writing for his brothers printing press company under a fake name. Threw his drunkard friend off of a boat for not helping them row the boat. Tells about his travels from his home down to New York City looking for work. He goes into to many details of the characters he meets along the way particularly his first boss he worked for as a printer assistant in Philadelphia. He describes his involvement with the British in the French and Indian war. He talks about his time living over seas. The first half of this book takes a pause and then there is two letters from curious minds that urge ben to continue his life story and ben does. He has a chapter dedicated to the beginning of American currency. Great read. 
 
+<a name="boone"></a>
 
 3.	(Published 1992) Daniel Boone: The Life and Legend of an American Pioneer – (John Mack Faragher) – I let this book slide because I ran out of credits and it was part of the free library and it covered the era of 1732-1820 which is what I was looking for. The author used some of Daniel Boone’s actual writings and stories from his close relatives. It's a slight parallel to Franklin’s life story he too was involved in the French and Indian war. This story digs deep into his relationships with Native Americans for whom he admired. Interesting tails of growing up in the 1740’s. This book describes a time of pioneers starting to go west and build out settlements in Kentucky, which was heavily maintained by the Indians, which kept most of the coastal settlers away. All the fighting over land ownership caused many battles with the Indians and trips to the court to have a judge hand out rights to the land. Boone is described as an introvert. This book includes adventurous stories about being kidnapped by Indians and finding the courage for a daring escape. 
 
+<a name="jefferson"></a>
+
 4.	(Published 1821) Autobiography of Thomas Jefferson (Thomas Jefferson) – This was not as easy to follow as Ben Franklin’s autobiography. It covers the era 1743-1790. He talked about his teachers who inspired him growing up. He reads the entire declaration of independence with the edits and revisions included. He had an interesting story about taking a note from Ben Franklin while Ben was on his deathbed and he gave it to Ben’s grandson. Jefferson expected to see it get printed for public but had yet to ever see it again. I tried to research what happened there but info was limited. 
+
+<a name="twelve"></a>
 
 5. (Published 1853) 12 Years a Slave (Solomon Northup) – This book spans the era of 1841-1853.  This is a powerful book. While reading it I thought this must have inspired the civil war because it was such an awful experience for someone to go through. This book is filled with so many details. He describes the ugly mean faces of the traffickers. He describes the brutal sadness of kids being taken away from their mothers. This book will put you right there in the experience that Solomon suffered through and it’s hard to read.
 
@@ -65,7 +73,7 @@ I wanted to take a look back on the beginning of what inspired the America I liv
 
 15.	 (Published 1919) My Inventions: The Autobiography of Nikola Tesla (Nikola Tesla) – This story spans the era of 1856-1918. The story starts out in Europe and talks about his family and how he interacted with them and what started his interests in inventing gadgets. He writes about his fears, interests and personal achievements he made growing up.  He leads us up to how he eventually makes it to America and the inventions and achievements he made while living in America. This book was very short. He had some interesting details about himself. He offers some very insightful feelings about our future and how his inventions can help humanity. 
 
-16.	(Published 1922) My Life and Work (Henry Ford) – This book spans the era of 1863-1921. In this book Henry Ford talks about the efficiency of mass production just like Ulysses S. Grant talked about war strategies in the civil war. There are many details about his industrial philosophy and how it can shape how we will work for years to come. There are theories of what our purposes in life are. Chapters 16 – 20 were a direct punch of wisdom about human behavior. He shares his philosophies about work and the meaning of life that are applicable today. Henry Ford is open about his racism against Jewish people and he talks about his anti-Semitic publication that he distributed through his businesses. His racist opinions are a grim look at the reality of how some powerful people thought at the time.
+16.	 (Published 1922) My Life and Work (Henry Ford) – This book spans the era of 1863-1921. In this book Henry Ford talks about the efficiency of mass production just like Ulysses S. Grant talked about war strategies in the civil war. There are many details about his industrial philosophy and how it can shape how we will work for years to come. There are theories of what our purposes in life are. Chapters 16 – 20 were a direct punch of wisdom about human behavior. He shares his philosophies about work and the meaning of life that are applicable today. Henry Ford is open about his racism against Jewish people and he talks about his anti-Semitic publication that he distributed through his businesses. His racist opinions are a grim look at the reality of how some powerful people thought at the time.
 
 17.	 (Published 1929) A Room of One’s Own (Virginia Woolf) – This is an important book although not from an American writer it was a surely influential for women writers. It focuses on women’s rights and the lack of women’s voices throughout literature predating the 19th century. She puts the importance on the ability to earn enough money to afford the time to write. She writes about her influences and poets who inspired her.
 
