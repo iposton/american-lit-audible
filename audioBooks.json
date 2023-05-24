@@ -1,0 +1,22 @@
+{
+    "1":{
+      "goodReadsID": 1,
+      "audibleID": 1,
+      "title": "Of Plymouth Plantation",
+      "audibleImgID": "518LkoCXR6L",
+      "Author": "William Bradford",
+      "secondAuthor": "Harold Paget",
+      "narator": "Matthew McAuliffe",
+      "duration": "12 hrs and 20 mins",
+      "second": 44400,
+      "rating": 4.4,
+      "genre": [
+          "Autobiographical",
+          "History"
+      ],
+      "pubYear": "1651",
+      "audibleIncluded": true,
+      "authorBioLink": "https://en.wikipedia.org/wiki/William_Bradford_(governor)",
+      "audibleLink": "https://www.audible.com/pd/Of-Plymouth-Plantation-Audiobook/B07BYSWNBD"
+    }
+}
