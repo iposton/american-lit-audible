@@ -17,6 +17,72 @@
       "pubYear": "1651",
       "audibleIncluded": true,
       "authorBioLink": "https://en.wikipedia.org/wiki/William_Bradford_(governor)",
-      "audibleLink": "https://www.audible.com/pd/Of-Plymouth-Plantation-Audiobook/B07BYSWNBD"
+      "audibleLink": "https://www.audible.com/pd/Of-Plymouth-Plantation-Audiobook/B07BYSWNBD",
+      "prompt": "write me a summary of Of Plymouth Plantation by William Bradford. The summary should include chapter names, key points, and quotes from the book."
+    },
+    "120":{
+      "goodReadsID": 120,
+      "audibleID": 120,
+      "title": "Up From Slavery - The Autobiography of Booker T. Washington",
+      "audibleImgID": "51-eSLSjQ0L",
+      "Author": "Booker T. Washington",
+      "secondAuthor": "",
+      "narator": "Noah Waterman",
+      "duration": "6 hrs and 8 mins",
+      "second": 0,
+      "rating": 4.7,
+      "genre": [
+          "Memoir",
+          "Autobiography"
+      ],
+      "pubYear": "1901",
+      "audibleIncluded": true,
+      "authorBioLink": "https://en.wikipedia.org/wiki/Booker_T._Washington",
+      "audibleLink": "https://www.audible.com/pd/Up-from-Slavery-Audiobook/B002VA8GBW?qid=1616455378&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=JF2JD8WN6QTH7N6W0TM2",
+      "prompt": "write me a summary of the autobiography Up From Slavery by Booker T. Washington. The summary should include chapter names, key points, and quotes from the book."
+    },
+    "0":{
+      "goodReadsID": 0,
+      "audibleID": 0,
+      "title": "",
+      "audibleImgID": "",
+      "Author": "",
+      "secondAuthor": "",
+      "narator": "",
+      "duration": "",
+      "second": 0,
+      "rating": 0,
+      "genre": [
+          "",
+          ""
+      ],
+      "pubYear": "",
+      "audibleIncluded": null,
+      "authorBioLink": "",
+      "audibleLink": "",
+      "prompt": ""
+    },
+    "00":{
+      "goodReadsID": 0,
+      "audibleID": 0,
+      "title": "",
+      "audibleImgID": "",
+      "Author": "",
+      "secondAuthor": "",
+      "narator": "",
+      "duration": "",
+      "second": 0,
+      "rating": 0,
+      "genre": [
+          "",
+          ""
+      ],
+      "pubYear": "",
+      "audibleIncluded": null,
+      "authorBioLink": "",
+      "audibleLink": "",
+      "prompt": ""
     }
+
 }
+
